@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hari~",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/hbandi2/react-tooling-practice/issues"
   },
-  "homepage": "https://github.com/hbandi2/react-tooling-practice#readme"
+  "homepage": "https://github.com/hbandi2/react-tooling-practice#readme",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
 }
