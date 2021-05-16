@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hari~",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbandi2/react-tooling-practice.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hbandi2/react-tooling-practice/issues"
+  },
+  "homepage": "https://github.com/hbandi2/react-tooling-practice#readme"
 }
